@@ -240,11 +240,11 @@ const testimonials = [
     imgPath: "/images/client4.svg",
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "Fatlind Xehlili",
+    mentions: "Netxio - Customer Support Team Lead",
     review:
       "Lirijon’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4.png",
+    imgPath: "public/images/fatlindxhelili.jpeg",
   },
   {
     name: "Albert Flores",
